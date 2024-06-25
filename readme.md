@@ -13,4 +13,8 @@ asdasdasdaaaaaa
 liuliuqweqweweq
 
 asdlkoi1232123
+<<<<<<< HEAD
 00000000111111111asdasd
+=======
+00000000111111111oooooaiosduoi
+>>>>>>> refs/remotes/origin/wenmu_test_1
