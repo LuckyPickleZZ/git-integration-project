@@ -8,4 +8,8 @@ asdsad123123
 >>>>>>> refs/remotes/origin/main
 zxciozxcuoizcxuoizxcasddas
 
+<<<<<<< HEAD
 asdhell12asd13oasdsad
+=======
+asdhell1213ohello
+>>>>>>> refs/remotes/origin/main
